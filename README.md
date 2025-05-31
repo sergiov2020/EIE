@@ -1,2 +1,2 @@
-## EIE (Equipos e instrumentación electrónica)
-# Actividad 2
+# EIE (Equipos e instrumentación electrónica)
+## Actividad 2
